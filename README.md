@@ -1,6 +1,9 @@
-# Hi 👋, I'm Hardik Patel
+<h1 align="center">Hi 👋, I'm Hardik Patel</h1>
+<h3 align="center">Data Analyst | Software Developer | Open to Work 🚀</h3>
 
-### Data Analyst | Software Developer | Open to Work 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hardikpateliteng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -52,3 +55,7 @@ Python-based report automation project.Interactive quiz application.
 📧 hardikpatel.iteng@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/hardik-patel-9a42933a3
+
+## 💡 Dev Wisdom
+
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
