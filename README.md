@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hardik Patel</h1>
-<h3 align="center">Data Analyst | Software Developer | Open to Work 🚀</h3>👨‍💻 About Me
+Hi 👋, I'm Hardik Patel
+
+Data Analyst | Software Developer | Open to Work 🚀
+
+👨‍💻 About Me
 
 - 🎓 IT Engineering Graduate
 - 📊 Interested in Data Analytics & Business Intelligence
 - 💻 Skilled in Python, SQL, Django & Web Development
 - 🌱 Currently learning Power BI, Data Engineering & Machine Learning
 - 🚀 Looking for Data Analyst, Business Analyst & Software Developer roles
-- ⚡ Fun Fact: I enjoy solving real-world problems using data and technology
 
 🌐 Socials
 
@@ -14,21 +16,16 @@
 
 🛠️ Tech Stack
 
-"Python" (https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"SQL" (https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"Java" (https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-"Django" (https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"HTML5" (https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-"PowerBI" (https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-"Excel" (https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-"Pandas" (https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-"Git" (https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-"VSCode" (https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+"Power BI" (https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+"Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 🏆 GitHub Trophies
 
@@ -48,13 +45,9 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=hardikpateliteng&
 
 Django-based e-commerce platform.
 
-🧠 Quizopedia - Report Card Generation System
+🧠 Quizopedia - Report Card Generation System 📊
 
 Python-based report automation project.Interactive quiz application.
-
-💡 Dev Wisdom
-
-«"Without data, you're just another person with an opinion." – W. Edwards Deming»
 
 📫 Contact Me
 
